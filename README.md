@@ -1,11 +1,10 @@
 strbuffer
 =========
 
-strbuffer shows buffer of strncpy, strncat, sprintf ...
+strbuffer shows buffer of strncmp, strncpy, strncat, sprintf ...
 
 
 License
 -------
 
 MIT License
-
